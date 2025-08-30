@@ -223,4 +223,4 @@ with col_main:
 
     if ss.running:
         time.sleep(0.5)
-        st.experimental_rerun()
+        st.rerun()
